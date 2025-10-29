@@ -1,0 +1,4 @@
+streamlit
+pygad
+google-generativeai
+pandas
